@@ -21,3 +21,6 @@ driver.implicitly_wait(10)
 
 # Example: Open a website
 driver.get("https://opensource-demo.orangehrmlive.com/")
+
+
+driver.find_element(By.LINK_TEXT,"OrangeHRM, Inc").click()
