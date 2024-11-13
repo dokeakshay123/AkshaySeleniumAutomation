@@ -15,3 +15,5 @@ driver.maximize_window()
 
 # Example: Open a website
 driver.get("https://www.google.com")
+
+driver.quit()
