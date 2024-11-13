@@ -24,3 +24,5 @@ driver.get("https://opensource-demo.orangehrmlive.com/")
 
 
 driver.find_element(By.LINK_TEXT,"OrangeHRM, Inc").click()
+
+driver.quit()
