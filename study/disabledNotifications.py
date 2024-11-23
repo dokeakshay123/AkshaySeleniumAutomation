@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.ie.webdriver import WebDriver
 
+
 ops=webdriver.ChromeOptions()
 ops.add_argument("--disable-notifications")
 
