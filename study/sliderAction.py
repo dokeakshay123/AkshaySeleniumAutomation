@@ -46,6 +46,6 @@ print(maxRange.location) # {'x': 513, 'y': 288}
 
 
 
-time.sleep(5)
+time.sleep(10)
 
 driver.quit()
