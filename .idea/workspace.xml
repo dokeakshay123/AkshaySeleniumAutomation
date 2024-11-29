@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95ff1005-b23b-4ec8-a04b-6591a92c885a" name="Changes" comment="double click actions added">
-      <change afterPath="$PROJECT_DIR$/study/keyboardActions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/scrollOpertaion.py" afterDir="false" />
+    <list default="true" id="95ff1005-b23b-4ec8-a04b-6591a92c885a" name="Changes" comment="scroll action added">
+      <change afterPath="$PROJECT_DIR$/study/downloadFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/keyboardActions.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/keyboardActions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,9 @@
     "Python.datePicker.executor": "Run",
     "Python.disabledNotifications.executor": "Run",
     "Python.doubleClickAction.executor": "Run",
+    "Python.downloadFile.executor": "Run",
     "Python.dragDropAction.executor": "Run",
+    "Python.keyboardActions.executor": "Run",
     "Python.mouseOperations.executor": "Run",
     "Python.mouseRightClick.executor": "Run",
     "Python.scrollOpertaion.executor": "Run",
@@ -65,8 +67,8 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.scrollOpertaion">
-    <configuration name="doubleClickAction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.downloadFile">
+    <configuration name="downloadFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seleniumPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/doubleClickAction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/downloadFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mouseRightClick" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="keyboardActions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seleniumPython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/mouseRightClick.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/keyboardActions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.downloadFile" />
+        <item itemvalue="Python.keyboardActions" />
         <item itemvalue="Python.scrollOpertaion" />
         <item itemvalue="Python.sliderAction" />
         <item itemvalue="Python.dragDropAction" />
-        <item itemvalue="Python.doubleClickAction" />
-        <item itemvalue="Python.mouseRightClick" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732467611845</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="scroll action added">
+      <option name="closed" value="true" />
+      <created>1732808400956</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732808400956</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +281,7 @@
     <MESSAGE value="date picker code added" />
     <MESSAGE value="mouse hover added" />
     <MESSAGE value="double click actions added" />
-    <option name="LAST_COMMIT_MESSAGE" value="double click actions added" />
+    <MESSAGE value="scroll action added" />
+    <option name="LAST_COMMIT_MESSAGE" value="scroll action added" />
   </component>
 </project>
