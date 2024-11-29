@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95ff1005-b23b-4ec8-a04b-6591a92c885a" name="Changes" comment="scroll action added">
-      <change afterPath="$PROJECT_DIR$/study/downloadFile.py" afterDir="false" />
+    <list default="true" id="95ff1005-b23b-4ec8-a04b-6591a92c885a" name="Changes" comment="mouse Action added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/keyboardActions.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/keyboardActions.py" afterDir="false" />
     </list>
@@ -67,7 +66,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.downloadFile">
+  <component name="RunManager" selected="Python.keyboardActions">
     <configuration name="downloadFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seleniumPython" />
       <option name="ENV_FILES" value="" />
@@ -180,8 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.downloadFile" />
         <item itemvalue="Python.keyboardActions" />
+        <item itemvalue="Python.downloadFile" />
         <item itemvalue="Python.scrollOpertaion" />
         <item itemvalue="Python.sliderAction" />
         <item itemvalue="Python.dragDropAction" />
@@ -260,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732808400956</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mouse Action added">
+      <option name="closed" value="true" />
+      <created>1732892372258</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732892372258</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +289,7 @@
     <MESSAGE value="mouse hover added" />
     <MESSAGE value="double click actions added" />
     <MESSAGE value="scroll action added" />
-    <option name="LAST_COMMIT_MESSAGE" value="scroll action added" />
+    <MESSAGE value="mouse Action added" />
+    <option name="LAST_COMMIT_MESSAGE" value="mouse Action added" />
   </component>
 </project>

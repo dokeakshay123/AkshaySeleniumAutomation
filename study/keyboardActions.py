@@ -24,7 +24,7 @@ driver = webdriver.Chrome(service=service)
 driver.maximize_window()
 
 #implicit wait
-driver.implicitly_wait(2)
+#driver.implicitly_wait(2)
 
 # open the url
 driver.get("https://text-compare.com/")
@@ -40,13 +40,16 @@ act=ActionChains(driver)
 #act.key_down(keys.CONTROL)
 #act.send_keys("a")
 #act.key_up(Keys.CONTROL)
+
+
 #act.perform()
 
 # Select All Approach2
 act.key_down(Keys.CONTROL).send_keys("a").key_up(Keys.CONTROL).perform()
 
+
 #Coppy Selected
-act.key_down(Keys.CONTROL).send_keys("s").key_up(Keys.CONTROL).perform()
+act.key_down(Keys.CONTROL).send_keys("c").key_up(Keys.CONTROL).perform()
 
 # Press Tab
 act.send_keys(Keys.TAB).perform()
