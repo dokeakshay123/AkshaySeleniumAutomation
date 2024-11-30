@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95ff1005-b23b-4ec8-a04b-6591a92c885a" name="Changes" comment="mouse Action added">
+    <list default="true" id="95ff1005-b23b-4ec8-a04b-6591a92c885a" name="Changes" comment="keyboard opertaion issue fixed">
+      <change afterPath="$PROJECT_DIR$/study/uploadFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/keyboardActions.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/keyboardActions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/downloadFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/downloadFile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     "Python.datePicker.executor": "Run",
     "Python.disabledNotifications.executor": "Run",
     "Python.doubleClickAction.executor": "Run",
-    "Python.downloadFile.executor": "Run",
+    "Python.downloadFile.executor": "Debug",
     "Python.dragDropAction.executor": "Run",
     "Python.keyboardActions.executor": "Run",
     "Python.mouseOperations.executor": "Run",
@@ -66,7 +67,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.keyboardActions">
+  <component name="RunManager" selected="Python.downloadFile">
     <configuration name="downloadFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seleniumPython" />
       <option name="ENV_FILES" value="" />
@@ -179,8 +180,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.keyboardActions" />
         <item itemvalue="Python.downloadFile" />
+        <item itemvalue="Python.keyboardActions" />
         <item itemvalue="Python.scrollOpertaion" />
         <item itemvalue="Python.sliderAction" />
         <item itemvalue="Python.dragDropAction" />
@@ -267,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732892372258</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="keyboard opertaion issue fixed">
+      <option name="closed" value="true" />
+      <created>1732898935659</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732898935659</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +299,7 @@
     <MESSAGE value="double click actions added" />
     <MESSAGE value="scroll action added" />
     <MESSAGE value="mouse Action added" />
-    <option name="LAST_COMMIT_MESSAGE" value="mouse Action added" />
+    <MESSAGE value="keyboard opertaion issue fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="keyboard opertaion issue fixed" />
   </component>
 </project>
