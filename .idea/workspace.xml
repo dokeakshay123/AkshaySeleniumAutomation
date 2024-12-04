@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95ff1005-b23b-4ec8-a04b-6591a92c885a" name="Changes" comment="download file code added">
-      <change afterPath="$PROJECT_DIR$/study/TabandWinKeys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/headlessTesting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/screnshots.py" afterDir="false" />
+    <list default="true" id="95ff1005-b23b-4ec8-a04b-6591a92c885a" name="Changes" comment="new topic covered">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -306,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733200601810</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="new topic covered">
+      <option name="closed" value="true" />
+      <created>1733248970592</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733248970592</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,6 +335,7 @@
     <MESSAGE value="mouse Action added" />
     <MESSAGE value="keyboard opertaion issue fixed" />
     <MESSAGE value="download file code added" />
-    <option name="LAST_COMMIT_MESSAGE" value="download file code added" />
+    <MESSAGE value="new topic covered" />
+    <option name="LAST_COMMIT_MESSAGE" value="new topic covered" />
   </component>
 </project>
